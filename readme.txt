@@ -4,5 +4,5 @@ To run this java file We need to compile
 To compile- javac Test.java
 To run- java Test.java
 
-sample run 1
+sample run 1 2
 
